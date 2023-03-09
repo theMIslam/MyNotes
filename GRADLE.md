@@ -98,3 +98,14 @@ implementation("io.coil-kt:coil:2.2.2")
     id("com.google.dagger.hilt.android") version "2.44" apply false
     
 ---
+
+// Lifecycle
+    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.5.1'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1'
+    
+---
+
+// Interceptor
+    implementation("com.squareup.okhttp3:logging-interceptor:5.0.0-alpha.2")
+    
+---
