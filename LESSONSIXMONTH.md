@@ -28,8 +28,6 @@ https://youtube.com/live/DIqWgIZOYJ4?feature=share
 
 Lesson 5
 
----
-
 https://www.youtube.com/watch?v=9vBGs32JpQk
 
 ---
