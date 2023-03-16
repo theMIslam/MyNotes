@@ -109,3 +109,8 @@ implementation("io.coil-kt:coil:2.2.2")
     implementation("com.squareup.okhttp3:logging-interceptor:5.0.0-alpha.2")
     
 ---
+
+// swagger
+    implementation("io.swagger:swagger-annotations:1.5.21")
+    
+---
