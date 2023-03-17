@@ -31,3 +31,21 @@ Lesson 5
 https://www.youtube.com/watch?v=9vBGs32JpQk
 
 ---
+
+Lesson 6
+
+https://youtube.com/live/cxjEnecVFeE?feature=share
+
+---
+
+Lesson 7
+
+https://youtube.com/live/cxjEnecVFeE?feature=share
+
+---
+
+Lesson 8
+
+https://www.youtube.com/live/-3dJpMObmn8?feature=share
+
+---
