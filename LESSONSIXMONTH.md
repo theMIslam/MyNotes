@@ -49,3 +49,10 @@ Lesson 8
 https://www.youtube.com/live/-3dJpMObmn8?feature=share
 
 ---
+
+Lesson 9
+
+https://youtube.com/live/pfe4ytCQorY?feature=share
+
+---
+
