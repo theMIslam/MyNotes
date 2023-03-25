@@ -46,7 +46,7 @@ Lesson 7
 
 Lesson 8
 
-
+https://youtube.com/live/Wo0aH2Rebak?feature=share
 
 ---
 
@@ -58,6 +58,6 @@ Lesson 9
 
 Questionnaire 7 month training
 
-
+https://forms.gle/GdmH9Bd4iNhLdQHfA
 
 ---
