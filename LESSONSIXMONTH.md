@@ -56,3 +56,8 @@ https://youtube.com/live/pfe4ytCQorY?feature=share
 
 ---
 
+Questionnaire 6 month training
+
+https://docs.google.com/forms/d/1LVSnBlMuR0Av1pDAcR775OoLnFe_ClFkocWU79MM9D0/edit
+
+---
