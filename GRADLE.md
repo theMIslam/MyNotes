@@ -114,3 +114,38 @@ implementation("io.coil-kt:coil:2.2.2")
     implementation("io.swagger:swagger-annotations:1.5.21")
     
 ---
+
+ // View Binding property delegate (reflection-free flavor)
+    implementation 'com.github.kirich1409:viewbindingpropertydelegate-noreflection:1.5.8'
+    
+---
+
+// Dots indicator
+    implementation "androidx.viewpager2:viewpager2:1.0.0"
+    implementation 'com.tbuonomo:dotsindicator:4.3'
+    
+---
+
+// Paging 3
+    implementation "androidx.paging:paging-common-ktx:3.1.1"
+    implementation "androidx.paging:paging-runtime:3.1.1"
+
+---
+
+// Hilt
+    def hilt_version = "2.44.2"
+    implementation "com.google.dagger:hilt-android:$hilt_version"
+    kapt "com.google.dagger:hilt-compiler:$hilt_version"
+
+---
+
+// Retrofit & OkHTTP
+    def retrofit_version = "2.9.0"
+    implementation "com.squareup.retrofit2:retrofit:$retrofit_version"
+    implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
+    def okhttp_version = "5.0.0-alpha.10"
+    implementation "com.squareup.okhttp3:okhttp:$okhttp_version"
+    implementation "com.squareup.okhttp3:okhttp-bom:$okhttp_version"
+    implementation "com.squareup.okhttp3:logging-interceptor"
+    
+---
