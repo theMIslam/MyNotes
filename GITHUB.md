@@ -23,3 +23,13 @@ commands!
 ---
 
 ![image](https://github.com/adzhibaevtan/Programming/blob/master/Git/git.png?raw=true)
+
+---
+
+![image](https://github.com/adzhibaevtan/Programming/blob/master/Other/Pasted%20image%2020230301033854.png?raw=true)
+
+---
+
+![image](https://github.com/adzhibaevtan/Programming/blob/master/Other/Pasted%20image%2020230301033923.png?raw=true)
+
+---
