@@ -34,13 +34,13 @@ Lesson 5
 
 Lesson 6
 
-[[https://www.youtube.com/watch?v=x3tMBLoFjE0](https://www.youtube.com/live/sEW6RI9eQyA?feature=share)](https://www.youtube.com/live/pYWX3zMerWE?feature=share)
+(https://www.youtube.com/live/pYWX3zMerWE?feature=share)
 
 --- 
 
 Lesson 7
 
-[https://www.youtube.com/watch?v=AwnE_t98hGA](https://www.youtube.com/live/2XlPYq7Sxvk?feature=share)
+(https://www.youtube.com/live/2XlPYq7Sxvk?feature=share)
 
 ---
 
