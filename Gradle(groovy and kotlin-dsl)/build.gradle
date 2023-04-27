@@ -137,4 +137,15 @@ dependencies {
     implementation "com.squareup.okhttp3:okhttp:$okhttp_version"
     implementation "com.squareup.okhttp3:okhttp-bom:$okhttp_version"
     implementation "com.squareup.okhttp3:logging-interceptor"
+    
+    // Paging 3
+    implementation "androidx.paging:paging-common-ktx:3.1.1"
+    implementation "androidx.paging:paging-runtime:3.1.1"
+    
+    // Material design
+    implementation "com.google.android.material:material:1.9.0-alpha02"
+    
+    // View Binding property delegate (reflection-free flavor)
+    implementation 'com.github.kirich1409:viewbindingpropertydelegate-noreflection:1.5.8'
+   
 }
